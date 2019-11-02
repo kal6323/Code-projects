@@ -1,11 +1,23 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <header id="header that doesn't work2"
-    <meta charset="utf-8">
-    <title>Landing page</title>
-  </head>
-  <body>
-
-  </body>
-</html>
+<div id="page-wrapper">
+  <header id="header">
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#What-we-do">What we do</a></li>
+        <li><a class="nav-link" href="#How-we-do">How we do<a/></li>
+        <li><a class="nav-link" href="#When-we-do-it">When we do it</a></li>
+      </ul>
+    </nav>
+    <div>
+      <img id="header-img" src= https://cdn.stocksnap.io/img-thumbs/960w/MHEDQJKWOH.jpg alt="electro development logo"/>
+    </div>
+  </header>
+</div>
+<iframe id="video" src=https://www.youtube.com/watch?v=oDEK2XTGbN8 width="200" height="200"></iframe>
+<div>
+  <section id="What-we-do">What we do
+  </section>
+  <section id="How-we-do">How we do
+  </section>
+  <section id="When-we-do-it">When we do it
+  </section>
+</div>
